@@ -6,6 +6,8 @@ Blender Copilot adds some new features and improvements to the original project,
 
 - Prompt engineering to fix color and material issues
 
+## Demo
+[![Alt text](https://img.youtube.com/vi/3iP4VENa9dk/0.jpg)](https://www.youtube.com/watch?v=3iP4VENa9dk)
 
 ## Installation
 
